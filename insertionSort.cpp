@@ -20,6 +20,8 @@ return 0;
 
 void insertionSort(int a[])
 {
+//Sorts a given array by insertion sort
+//Input: An array A[0..n − 1] of n orderable elements //Output: Array A[0..n − 1] sorted in nondecreasing order
   
   for(int i =0; i<6; i++)
   {
